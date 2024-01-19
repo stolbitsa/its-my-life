@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>its-my-life</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="subdominant-harmonic-0"/>
   <readme>
     <en>bf776adefb57e3f5783a83f6cc8480dc27893b2d8a8b6010995a5c86f606796d</en>
@@ -16,13 +16,13 @@
     <tonalities>10</tonalities>
     <video name="its_my_life_0.mp4" size="208530" type="video/mp4">941f8d3e027455cc6a5c945c18cb44b70cec5a0e843e6be8d287f1b33765d607</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
-      <note number="2" values="1" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
-      <note number="3" values="1" ticks="195" durationTicks="46" ppq="96" velocity="0.701"/>
-      <note number="4" values="3" ticks="385" durationTicks="67" ppq="96" velocity="0.704"/>
-      <note number="5" values="5" ticks="456" durationTicks="93" ppq="96" velocity="0.641"/>
-      <note number="6" values="6" ticks="553" durationTicks="92" ppq="96" velocity="0.654"/>
-      <note number="7" values="5" ticks="649" durationTicks="96" ppq="96" velocity="0.759"/>
+      <note number="1" values="1" ticks="23" durationTicks="88" ppq="96" velocity="0.879"/>
+      <note number="2" values="1" ticks="120" durationTicks="94" ppq="96" velocity="0.872"/>
+      <note number="3" values="1" ticks="266" durationTicks="46" ppq="96" velocity="0.701"/>
+      <note number="4" values="3" ticks="312" durationTicks="48" ppq="96" velocity="0.704"/>
+      <note number="5" values="5" ticks="362" durationTicks="47" ppq="96" velocity="0.641"/>
+      <note number="6" values="6" ticks="409" durationTicks="189" ppq="96" velocity="0.654"/>
+      <note number="7" values="5" ticks="601" durationTicks="165" ppq="96" velocity="0.759"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -34,7 +34,7 @@
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
       <note number="2" values="1" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
-      <note number="3" values="1" ticks="195" durationTicks="46" ppq="96" velocity="0.701"/>
+      <note number="3" values="1" ticks="288" durationTicks="46" ppq="96" velocity="0.701"/>
       <note number="4" values="3" ticks="385" durationTicks="67" ppq="96" velocity="0.704"/>
       <note number="5" values="5" ticks="456" durationTicks="93" ppq="96" velocity="0.641"/>
       <note number="6" values="6" ticks="553" durationTicks="92" ppq="96" velocity="0.654"/>
