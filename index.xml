@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>its-my-life</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="subdominant-harmonic-0"/>
   <readme>
-    <ru>3dbb7e84d003acfbbcc8f1bb02a6d58c6c963c286d194d10142082011a4fc644</ru>
-    <en>baef4324cda2cb28eef293ac03fb82a3ff10ff0e27cd126c79c01357678ff123</en>
+    <ru>cf3397a3c22b9bc1fb074622dce35e081a4b864b7b313fa85dae77dea902fe5a</ru>
+    <en>df940d27cf70af4249a8fc0db4c8a34362761afc60d30c14fae920c585c57766</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
