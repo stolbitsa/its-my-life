@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>its-my-life</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="subdominant-harmonic-0"/>
   <readme>
     <ru>b80a615ee3c3dd0d8b3fcda38b66365147d7539be2628e1f23faf5faa4925fca</ru>
-    <en>bf776adefb57e3f5783a83f6cc8480dc27893b2d8a8b6010995a5c86f606796d</en>
+    <en>40f38ad90df9187f15c0dfc0280393fd265503bb7ab8f1dc71b86afbd96950af</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,6 @@
     <bpm>160</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="its_my_life_0.mp4" size="208530" type="video/mp4">941f8d3e027455cc6a5c945c18cb44b70cec5a0e843e6be8d287f1b33765d607</video>
     <notes>
       <note number="1" values="1" ticks="29" durationTicks="88" ppq="96" velocity="0.479"/>
       <note number="2" values="1" ticks="130" durationTicks="94" ppq="96" velocity="0.514"/>
@@ -30,7 +29,6 @@
     <bpm>160</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="its_my_life1_0.mp4" size="188289" type="video/mp4">ef3de1a5fbd76c340e54c1b6d51613aed9abbf194603b6be291f1e1e491bea7a</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
       <note number="2" values="1" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
@@ -46,7 +44,6 @@
     <bpm>160</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="its_my_life2_0.mp4" size="204178" type="video/mp4">20f905f5ca810a83171db39ebed357944ba9f3f6199f8b5cf3f378af522a0751</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
       <note number="2" values="1" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
@@ -62,7 +59,6 @@
     <bpm>160</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="its_my_life3_0.mp4" size="211045" type="video/mp4">82bc170bc99b2a98d5ce24436dba693572d04e5d6d68fe1886dc6f6f53197462</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
       <note number="2" values="1" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
@@ -78,7 +74,6 @@
     <bpm>160</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>10</tonalities>
-    <video name="its_my_life4_0.mp4" size="370258" type="video/mp4">e9f988f3171d2bde97142828d3a377ecec4c2c7cf4e9e9a100497c34a32c2d77</video>
     <notes>
       <note number="1" values="38" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
       <note number="2" values="58" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
@@ -96,7 +91,6 @@
     <bpm>160</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>10</tonalities>
-    <video name="its_my_life4_0.mp4" size="370258" type="video/mp4">e9f988f3171d2bde97142828d3a377ecec4c2c7cf4e9e9a100497c34a32c2d77</video>
     <notes>
       <note number="1" values="38" ticks="0" durationTicks="88" ppq="96" velocity="0.879"/>
       <note number="2" values="58" ticks="97" durationTicks="94" ppq="96" velocity="0.872"/>
