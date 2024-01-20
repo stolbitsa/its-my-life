@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>its-my-life</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <ru>cf3397a3c22b9bc1fb074622dce35e081a4b864b7b313fa85dae77dea902fe5a</ru>
@@ -16,13 +16,13 @@
     <tonalities>10</tonalities>
     <video name="its_my_life_0.mp4" size="208530" type="video/mp4">941f8d3e027455cc6a5c945c18cb44b70cec5a0e843e6be8d287f1b33765d607</video>
     <notes>
-      <note number="1" values="1" ticks="29" durationTicks="88" ppq="96" velocity="0.479"/>
-      <note number="2" values="1" ticks="130" durationTicks="94" ppq="96" velocity="0.514"/>
-      <note number="3" values="1" ticks="275" durationTicks="46" ppq="96" velocity="0.499"/>
-      <note number="4" values="3" ticks="325" durationTicks="37" ppq="96" velocity="0.499"/>
-      <note number="5" values="5" ticks="370" durationTicks="36" ppq="96" velocity="0.496"/>
-      <note number="6" values="6" ticks="409" durationTicks="205" ppq="96" velocity="0.491"/>
-      <note number="7" values="5" ticks="613" durationTicks="159" ppq="96" velocity="0.524"/>
+      <note number="1" values="1" ticks="48" durationTicks="88" ppq="96" velocity="0.479"/>
+      <note number="2" values="1" ticks="144" durationTicks="94" ppq="96" velocity="0.514"/>
+      <note number="3" values="1" ticks="295" durationTicks="42" ppq="96" velocity="0.499"/>
+      <note number="4" values="3" ticks="341" durationTicks="37" ppq="96" velocity="0.499"/>
+      <note number="5" values="5" ticks="384" durationTicks="36" ppq="96" velocity="0.496"/>
+      <note number="6" values="6" ticks="436" durationTicks="191" ppq="96" velocity="0.491"/>
+      <note number="7" values="5" ticks="642" durationTicks="159" ppq="96" velocity="0.524"/>
     </notes>
   </exercise>
   <exercise number="2">
