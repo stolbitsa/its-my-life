@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>its-my-life</repo>
-  <version>v1.0.17</version>
+  <version>v1.0.18</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <en>3dab491da1d09f89d307fb7315ad9bcefac3e49db2b38134889aa16342aadc77</en>
@@ -113,6 +113,24 @@
     <lowestNote>5</lowestNote>
     <tonalities>10</tonalities>
     <video name="its_my_life6_0.mp4" size="303894" type="video/mp4">8e2a79e4c3e3307c984f3548941d3c4f604f09d7ecec613064a95be216d805f4</video>
+    <notes>
+      <note number="1" values="38" ticks="2" durationTicks="61" ppq="96" velocity="0.879"/>
+      <note number="2" values="38" ticks="102" durationTicks="42" ppq="96" velocity="0.872"/>
+      <note number="3" values="38" ticks="158" durationTicks="46" ppq="96" velocity="0.842"/>
+      <note number="4" values="38" ticks="227" durationTicks="60" ppq="96" velocity="0.827"/>
+      <note number="5" values="38" ticks="289" durationTicks="61" ppq="96" velocity="0.849"/>
+      <note number="6" values="28" ticks="353" durationTicks="73" ppq="96" velocity="0.799"/>
+      <note number="7" values="18" ticks="436" durationTicks="83" ppq="96" velocity="0.817"/>
+      <note number="8" values="7" ticks="536" durationTicks="80" ppq="96" velocity="0.829"/>
+      <note number="9" values="7" ticks="630" durationTicks="235" ppq="96" velocity="0.862"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>minor</scale>
+    <bpm>160</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>10</tonalities>
+    <video name="its_my_life7_0.mp4" size="175039" type="video/mp4">d03f585dfd9bf6177178b47c5c8b74d26b3c0ba710d9718b2db46f51f20230d7</video>
     <notes>
       <note number="1" values="38" ticks="2" durationTicks="61" ppq="96" velocity="0.879"/>
       <note number="2" values="38" ticks="102" durationTicks="42" ppq="96" velocity="0.872"/>
