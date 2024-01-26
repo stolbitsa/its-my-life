@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>its-my-life</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
-    <ru>cf3397a3c22b9bc1fb074622dce35e081a4b864b7b313fa85dae77dea902fe5a</ru>
-    <en>df940d27cf70af4249a8fc0db4c8a34362761afc60d30c14fae920c585c57766</en>
+    <en>3dab491da1d09f89d307fb7315ad9bcefac3e49db2b38134889aa16342aadc77</en>
+    <ru>ba403b941c5483fdf5eaf8c1219b1d0ca974ad738c7aa0301d78c55c4313cf92</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
